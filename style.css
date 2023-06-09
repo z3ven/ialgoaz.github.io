@@ -1,0 +1,13 @@
+.centered {
+    text-align: center;
+}
+.warning {
+    background-color: red;
+    color: white;
+}
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
